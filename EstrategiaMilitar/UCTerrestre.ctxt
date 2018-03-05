@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=id\ qtdeMilitaresAlocados\ qtdeTanque\ qtdeBlindado\ l
+comment0.target=UCTerrestre(java.lang.String,\ int,\ int,\ int,\ Localidade)
+comment1.params=
+comment1.target=int\ getQtdeTanque()
+comment2.params=qtdeTanque
+comment2.target=void\ setQtdeTanque(int)
+comment3.params=
+comment3.target=int\ getQtdeBlindado()
+comment4.params=qtdeBlindado
+comment4.target=void\ setQtdeBlindado(int)
+comment5.params=
+comment5.target=int\ getPotenciaCombateAbsoluta()
+numComments=6

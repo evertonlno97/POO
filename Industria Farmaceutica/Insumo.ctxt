@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nome\ formula\ toxidade\ valorMin\ valorReg\ valorAtual
+comment0.target=Insumo(java.lang.String,\ java.lang.String,\ int,\ double,\ double,\ double)
+comment1.params=quantidade
+comment1.target=void\ ajustar(double)
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Exercito()
+comment1.params=unidade
+comment1.target=void\ addElementoCombate(ElementoCombateIF)
+comment2.params=localidade
+comment2.target=double\ getPotenciaCombateRelativa(Localidade)
+numComments=3

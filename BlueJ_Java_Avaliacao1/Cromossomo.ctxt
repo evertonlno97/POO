@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=tamanho
+comment0.target=Cromossomo(int)
+comment1.params=alelo
+comment1.target=Gene\ getGene(int)
+comment2.params=alelo\ gene
+comment2.target=void\ setGene(int,\ Gene)
+comment3.params=
+comment3.target=Cromossomo\ clonar()
+comment4.params=
+comment4.target=int\ getTamanho()
+comment5.params=outro
+comment5.target=int\ similarCromo(Cromossomo)
+comment6.params=valor\ outro
+comment6.target=void\ cruzarCromo(int,\ Cromossomo)
+numComments=7

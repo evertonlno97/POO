@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Antena(java.lang.String)
+comment1.params=x\ y
+comment1.target=boolean\ cobre(double,\ double)
+comment2.params=x\ y
+comment2.target=double\ getPotencia(double,\ double)
+comment3.params=celular
+comment3.target=void\ desassociar(Celular)
+comment4.params=celular
+comment4.target=void\ associar(Celular)
+comment5.params=celular
+comment5.target=boolean\ estaAssociado(Celular)
+numComments=6

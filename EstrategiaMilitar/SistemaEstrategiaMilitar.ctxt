@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SistemaEstrategiaMilitar()
+comment1.params=nomeLocalidade
+comment1.target=double\ calcularForcaConflito(java.lang.String)
+comment2.params=localidade
+comment2.target=double\ getPotenciaRelativaAliados(Localidade)
+comment3.params=localidade
+comment3.target=double\ getPotenciaRelativaInimigos(Localidade)
+comment4.params=nomeLocalidade
+comment4.target=Localidade\ findByName(java.lang.String)
+comment5.params=exercito
+comment5.target=void\ addExercitoAliado(Exercito)
+comment6.params=exercito
+comment6.target=void\ addExercitoInimigo(Exercito)
+comment7.params=localidade
+comment7.target=void\ addLocalidade(Localidade)
+numComments=8

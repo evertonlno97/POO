@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Celular(java.lang.String)
+comment1.params=
+comment1.target=Antena\ getAntena()
+comment2.params=atual
+comment2.target=void\ setAntena(Antena)
+comment3.params=antena
+comment3.target=void\ associar(Antena)
+comment4.params=
+comment4.target=void\ desassociar()
+comment5.params=x\ y
+comment5.target=void\ mover(double,\ double)
+numComments=6

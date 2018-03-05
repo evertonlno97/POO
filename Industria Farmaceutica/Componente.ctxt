@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=insumo\ quantidade
+comment0.target=Componente(Insumo,\ double)
+comment1.params=quantidade
+comment1.target=void\ setQuantidade(double)
+comment2.params=
+comment2.target=double\ getQuantidade()
+comment3.params=insumo
+comment3.target=void\ setInsumo(Insumo)
+comment4.params=
+comment4.target=Insumo\ getInsumo()
+comment5.params=quantidadeProduzida
+comment5.target=void\ contabilizarInsumo(double)
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=lance\ nome
+comment0.target=Lance(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getValor()
+comment2.params=lance
+comment2.target=void\ setValor(int)
+comment3.params=
+comment3.target=java.lang.String\ getIdentificador()
+comment4.params=nome
+comment4.target=void\ setIdentificador(java.lang.String)
+comment5.params=outro
+comment5.target=boolean\ maiorLance(Lance)
+comment6.params=outro
+comment6.target=boolean\ buscarLance(Lance)
+comment7.params=nome
+comment7.target=boolean\ buscarLance(java.lang.String)
+comment8.params=outro
+comment8.target=boolean\ equals(Lance)
+numComments=9

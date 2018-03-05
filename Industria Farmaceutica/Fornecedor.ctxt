@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nome
+comment0.target=Fornecedor(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getUri()
+comment4.params=uri
+comment4.target=void\ setUri(java.lang.String)
+comment5.params=cnpj
+comment5.target=void\ setCnpj(java.lang.String)
+comment6.params=produto
+comment6.target=void\ addProduto(Produto)
+numComments=7

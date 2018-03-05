@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=nome\ formula\ toxidade\ valorMin\ valorReg\ valorAtual
+comment0.target=Produto(java.lang.String,\ java.lang.String,\ int,\ double,\ double,\ double)
+comment1.params=quantidadeProduzida
+comment1.target=void\ ajustar(double)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=formula
+comment4.target=void\ setFormulaQuimica(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getFormulaQuimica()
+comment6.params=toxidade
+comment6.target=void\ setGrauToxidade(int)
+comment7.params=
+comment7.target=int\ getGrauToxidade()
+comment8.params=object
+comment8.target=boolean\ equals(java.lang.Object)
+numComments=9

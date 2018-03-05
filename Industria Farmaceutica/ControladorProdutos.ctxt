@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=produto
+comment0.target=void\ addProduto(Produto)
+comment1.params=nomeProduto\ quantidadeProduzida
+comment1.target=void\ registrarProducao(java.lang.String,\ float)
+comment2.params=nomeProduto
+comment2.target=Produto\ buscarProduto(java.lang.String)
+numComments=3

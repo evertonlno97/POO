@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=localidade\ valor
+comment0.target=RegiaoInfluencia(Localidade,\ double)
+comment1.params=
+comment1.target=Localidade\ getLocalidade()
+comment2.params=localidade
+comment2.target=void\ setLocalidade(Localidade)
+comment3.params=
+comment3.target=double\ getValor()
+comment4.params=valor
+comment4.target=void\ setValor(double)
+comment5.params=localidade
+comment5.target=boolean\ referese(Localidade)
+numComments=6

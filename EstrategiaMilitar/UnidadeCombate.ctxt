@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=id\ qtdeMilitaresAlocados\ l
+comment0.target=UnidadeCombate(java.lang.String,\ int,\ Localidade)
+comment1.params=
+comment1.target=java.lang.String\ getId()
+comment2.params=id
+comment2.target=void\ setId(java.lang.String)
+comment3.params=
+comment3.target=int\ getQtdeMilitaresAlocados()
+comment4.params=qtdeMilitaresAlocados
+comment4.target=void\ setQtdeMilitaresAlocados(int)
+comment5.params=
+comment5.target=Localidade\ getLocalidade()
+comment6.params=localidade
+comment6.target=void\ setLocalidade(Localidade)
+comment7.params=
+comment7.target=int\ getPotenciaCombateAbsoluta()
+comment8.params=localidade
+comment8.target=double\ getPotenciaCombateRelativa(Localidade)
+numComments=9

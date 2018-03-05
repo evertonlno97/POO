@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=produto\ valorMin\ valorReg\ valorAtual
+comment0.target=Estoque(Produto,\ double,\ double,\ double)
+comment1.params=produto
+comment1.target=void\ setProduto(Produto)
+comment10.params=quantidade
+comment10.target=void\ incrementar(double)
+comment11.params=quantidade
+comment11.target=void\ decrementar(double)
+comment2.params=
+comment2.target=Produto\ getProduto()
+comment3.params=valorMin
+comment3.target=void\ setValorMin(double)
+comment4.params=
+comment4.target=double\ getValorMin()
+comment5.params=valorReg
+comment5.target=void\ setValorReg(double)
+comment6.params=
+comment6.target=double\ getValorReg()
+comment7.params=valorAtual
+comment7.target=void\ setValorAtual(double)
+comment8.params=
+comment8.target=double\ getValorAtual()
+comment9.params=
+comment9.target=boolean\ estaNoNilvelCritico()
+numComments=12
