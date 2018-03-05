@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=arquivo
+comment0.target=void\ addArquivo(Arquivo)
+comment1.params=servidor
+comment1.target=void\ addServidor(Servidor)
+comment2.params=arquivo
+comment2.target=double\ armazenarArquivo(Arquivo)
+comment3.params=fragmento
+comment3.target=Servidor\ selecionarServidor(Fragmento)
+numComments=4

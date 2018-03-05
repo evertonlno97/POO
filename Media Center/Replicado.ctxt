@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Replicado(java.lang.String)
+comment1.params=
+comment1.target=double\ getCapacidadeDisponivel()
+comment2.params=
+comment2.target=double\ getLatenciaEscrita()
+comment3.params=tamanho
+comment3.target=void\ ocupar(double)
+numComments=4

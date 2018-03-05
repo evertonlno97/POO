@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Servidor(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getId()
+comment2.params=id
+comment2.target=void\ setId(java.lang.String)
+comment3.params=
+comment3.target=double\ getCapacidadeDisponivel()
+comment4.params=
+comment4.target=double\ getLatenciaEscrita()
+comment5.params=fragmento
+comment5.target=double\ gravar(Fragmento)
+comment6.params=tamanho
+comment6.target=void\ ocupar(double)
+numComments=7
